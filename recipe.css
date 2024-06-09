@@ -1,0 +1,104 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}
+
+.recipe-details {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.recipe-image {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.recipe-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+.recipe-info {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 120px;
+}
+
+.recipe-info h1 {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+h1 {
+    margin-top: 59px;
+}
+
+.prout {
+    font-size: 20px;
+    color: #666;
+}
+
+.recipe-info p,
+.recipe-info ul {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+.recipe-info ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.recipe-info ul li {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.instructions {
+    margin-top: 20px;
+}
+
+.instructions h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.instructions p {
+    font-size: 19px;
+    color: #666;
+    margin-bottom: 10px;
+    text-align: left;
+    padding-left: 10px;
+}
+
+.comment p {
+    margin: 10px 0;
+    color: #666;
+}
+
+@media screen and (max-width: 728px) {
+    form {
+        width: 90%;
+    }
+}

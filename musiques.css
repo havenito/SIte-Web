@@ -1,0 +1,45 @@
+.music-menu {
+    display: none;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.music-menu h3 {
+    margin: 0 0 10px 0;
+}
+
+.music-menu ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.music-menu ul li {
+    padding: 5px 0;
+    cursor: pointer;
+}
+
+.music-menu ul li:hover {
+    background-color: #f0f0f0;
+}
+
+#music-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+#music-frame {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 30%;
+    height: 100px;
+    border: none;
+    z-index: 1000;
+}

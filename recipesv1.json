@@ -1,0 +1,383 @@
+[
+    {
+        "id": 1,
+        "title": "Tiramisu",
+        "category": "dessert",
+        "preparation_time": "30 minutes",
+        "cooking_time": "0 minutes",
+        "ingredients": "3 oeufs\n100g de sucre\n1 sachet de sucre vanillé\n250g de mascarpone\n24 biscuits à la cuillère\n300ml de café fort\n2 cuillères à soupe de cacao en poudre",
+        "steps": "1. Séparer les blancs des jaunes d'oeufs.\n\n2. Fouetter les jaunes avec le sucre et le sucre vanillé jusqu'à ce que le mélange blanchisse.\n\n3. Ajouter le mascarpone au mélange.\n\n4. Monter les blancs en neige et les incorporer délicatement à la préparation.\n\n5. Tremper rapidement les biscuits dans le café et les disposer dans un plat.\n\n6. Recouvrir d'une couche de crème au mascarpone.\n\n7. Répéter l'opération en alternant biscuits et crème.\n\n8. Réfrigérer au moins 4 heures.\n\n9. Saupoudrer de cacao avant de servir.\n\n",
+        "image": "https://i.pinimg.com/564x/44/85/da/4485da6f554ec83ecc69f0815a002658.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Spaghetti Carbonara",
+        "category": "plat",
+        "preparation_time": "15 minutes",
+        "cooking_time": "15 minutes",
+        "ingredients": "400g de spaghetti\n200g de pancetta\n3 oeufs\n100g de parmesan râpé\n2 gousses d ail\nsel\npoivre",
+        "steps": "1. Cuire les spaghetti dans une grande casserole d'eau bouillante salée.\n\n2. Faire revenir la pancetta avec l'ail dans une poêle.\n\n3. Battre les oeufs avec le parmesan, le sel et le poivre.\n\n4. Égoutter les spaghetti en réservant une tasse d'eau de cuisson.\n\n5. Ajouter les spaghetti à la poêle avec la pancetta.\n\n6. Retirer du feu, ajouter le mélange d'oeufs et de parmesan et mélanger rapidement.\n\n7. Ajouter un peu d'eau de cuisson si nécessaire pour obtenir une sauce crémeuse.\n\n8. Servir immédiatement avec du parmesan râpé.\n\n",
+        "image": "https://i.pinimg.com/564x/ca/a9/03/caa9033b3b193a02d7af33337b68f07a.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Salade César",
+        "category": "entrée",
+        "preparation_time": "20 minutes",
+        "cooking_time": "0 minutes",
+        "ingredients": "1 laitue romaine\n100g de parmesan\n150g de croûtons\n2 filets de poulet grillés\n4 filets d anchois\n1 jaune d oeuf\n1 gousse d ail\n1 cuillère à soupe de moutarde de Dijon\n2 cuillères à soupe de jus de citron\n100ml d huile d olive\nsel\npoivre",
+        "steps": "1. Préparer la sauce : mélanger le jaune d'oeuf, l'ail, la moutarde, le jus de citron, les anchois, le sel et le poivre dans un mixeur.\n\n2. Ajouter progressivement l'huile d'olive en continuant de mixer jusqu'à obtention d'une sauce épaisse.\n\n3. Laver et sécher la laitue, puis la couper en morceaux.\n\n4. Disposer la laitue dans un saladier, ajouter les croûtons, le poulet grillé coupé en morceaux et le parmesan râpé.\n\n5. Verser la sauce César sur la salade et mélanger délicatement.\n\n6. Servir immédiatement.\n\n",
+        "image": "https://i.pinimg.com/736x/49/82/66/498266d1f657838f2c35942642fde7c0.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Soupe à l'oignon",
+        "category": "entrée",
+        "preparation_time": "20 minutes",
+        "cooking_time": "40 minutes",
+        "ingredients": "500g d oignons\n50g de beurre\n1 litre de bouillon de bœuf\n100ml de vin blanc\n1 cuillère à soupe de farine\n1 baguette\n150g de gruyère râpé\nsel\npoivre",
+        "steps": "1. Émincer les oignons et les faire revenir dans le beurre jusqu'à ce qu'ils soient dorés.\n\n2. Saupoudrer de farine et mélanger.\n\n3. Ajouter le vin blanc et laisser réduire.\n\n4. Verser le bouillon et laisser mijoter 30 minutes.\n\n5. Assaisonner avec du sel et du poivre.\n\n6. Couper la baguette en tranches et les faire griller.\n\n7. Verser la soupe dans des bols, ajouter les tranches de baguette et saupoudrer de gruyère râpé.\n\n8. Passer sous le gril du four jusqu'à ce que le fromage soit fondu et doré.\n\n9. Servir chaud.\n\n",
+        "image": "https://i.pinimg.com/564x/52/44/3d/52443da9ecc0ec53c550d5366a0b4999.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Quiche Lorraine",
+        "category": "plat",
+        "preparation_time": "20 minutes",
+        "cooking_time": "30 minutes",
+        "ingredients": "1 pâte brisée\n200g de lardons\n3 oeufs\n200ml de crème fraîche\n100ml de lait\nsel\npoivre\nmuscade",
+        "steps": "1. Préchauffer le four à 200°C.\n\n2. Étaler la pâte dans un moule à tarte et la piquer avec une fourchette.\n\n3. Faire revenir les lardons dans une poêle.\n\n4. Battre les oeufs avec la crème, le lait, le sel, le poivre et la muscade.\n\n5. Répartir les lardons sur la pâte et verser la préparation aux oeufs par-dessus.\n\n6. Enfourner pendant 30 minutes jusqu'à ce que la quiche soit dorée.\n\n7. Laisser refroidir légèrement avant de servir.\n\n",
+        "image": "https://i.pinimg.com/736x/66/60/10/666010f9912f8135c47275479b961b5a.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Ratatouille",
+        "category": "plat",
+        "preparation_time": "30 minutes",
+        "cooking_time": "60 minutes",
+        "ingredients": "2 aubergines\n2 courgettes\n1 poivron rouge\n1 poivron jaune\n4 tomates\n2 oignons\n4 gousses d ail\n4 cuillères à soupe d huile d olive\nherbes de Provence\nsel\npoivre",
+        "steps": "1. Couper les aubergines, courgettes, poivrons et tomates en dés.\n\n2. Émincer les oignons et l'ail.\n\n3. Faire revenir les oignons et l'ail dans l'huile d'olive.\n\n4. Ajouter les aubergines et les courgettes et cuire pendant 10 minutes.\n\n5. Ajouter les poivrons et cuire encore 10 minutes.\n\n6. Ajouter les tomates, les herbes de Provence, le sel et le poivre.\n\n7. Laisser mijoter à feu doux pendant 40 minutes en remuant de temps en temps.\n\n8. Servir chaud.\n\n",
+        "image": "https://i.pinimg.com/564x/f7/d6/97/f7d6970a52a6c7ca0009c3228ff7a2af.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Clafoutis aux cerises",
+        "category": "dessert",
+        "preparation_time": "15 minutes",
+        "cooking_time": "35 minutes",
+        "ingredients": "500g de cerises\n4 oeufs\n100g de sucre\n1 sachet de sucre vanillé\n100g de farine\n250ml de lait\n50g de beurre\nune pincée de sel",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Beurrer un moule et y répartir les cerises.\n\n3. Battre les oeufs avec le sucre et le sucre vanillé.\n\n4. Ajouter la farine et le sel, puis le lait petit à petit en mélangeant bien.\n\n5. Verser la pâte sur les cerises.\n\n6. Parsemer de petits morceaux de beurre.\n\n7. Enfourner pendant 35 minutes jusqu'à ce que le clafoutis soit doré.\n\n8. Laisser tiédir avant de servir.\n\n",
+        "image": "https://i.pinimg.com/564x/a7/21/b7/a721b74445b3f7750c1c5cec531a58e3.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Bœuf Bourguignon",
+        "category": "plat",
+        "preparation_time": "30 minutes",
+        "cooking_time": "3 heures",
+        "ingredients": "1kg de bœuf à braiser\n150g de lardons\n3 carottes\n1 oignon\n2 gousses d ail\n50g de farine\n750ml de vin rouge\n500ml de bouillon de bœuf\n1 bouquet garni\nsel\npoivre",
+        "steps": "1. Couper le bœuf en gros cubes.\n\n2. Faire revenir les lardons dans une cocotte.\n\n3. Ajouter le bœuf et faire dorer de tous les côtés.\n\n4. Ajouter les carottes en rondelles, l'oignon émincé et l'ail haché.\n\n5. Saupoudrer de farine et mélanger bien.\n\n6. Verser le vin rouge et le bouillon.\n\n7. Ajouter le bouquet garni, le sel et le poivre.\n\n8. Porter à ébullition, couvrir et laisser mijoter à feu doux pendant 3 heures.\n\n9. Servir chaud avec des pommes de terre ou des pâtes.\n\n",
+        "image": "https://i.pinimg.com/564x/7d/0b/98/7d0b98772682d724bef67f88a4a492b0.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Poulet Basquaise",
+        "category": "plat",
+        "preparation_time": "15 minutes",
+        "cooking_time": "60 minutes",
+        "ingredients": "4 cuisses de poulet\n2 poivrons rouges\n2 poivrons verts\n4 tomates\n2 oignons\n3 gousses d ail\n2 cuillères à soupe d huile d olive\n1 bouquet garni\nsel\npoivre",
+        "steps": "1. Faire chauffer l'huile dans une cocotte et y faire dorer les cuisses de poulet.\n\n2. Émincer les oignons et les poivrons.\n\n3. Ajouter les oignons et les poivrons dans la cocotte et faire revenir.\n\n4. Peler, épépiner et couper les tomates en morceaux.\n\n5. Ajouter les tomates, l'ail haché, le bouquet garni, le sel et le poivre.\n\n6. Couvrir et laisser mijoter à feu doux pendant 45 minutes à 1 heure.\n\n7. Retirer le bouquet garni avant de servir.\n\n",
+        "image": "https://i.pinimg.com/564x/13/c5/86/13c586b9c00e1757a17d6cfee8455034.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Madeleines",
+        "category": "dessert",
+        "preparation_time": "20 minutes",
+        "cooking_time": "10 minutes",
+        "ingredients": "2 oeufs\n100g de sucre\n100g de farine\n100g de beurre\n1 cuillère à café de levure\n1 cuillère à café de zeste de citron\nune pincée de sel",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Faire fondre le beurre et le laisser tiédir.\n\n3. Battre les oeufs avec le sucre jusqu'à ce que le mélange blanchisse.\n\n4. Ajouter la farine, la levure, le sel et le zeste de citron.\n\n5. Incorporer le beurre fondu et mélanger jusqu'à obtenir une pâte homogène.\n\n6. Remplir les moules à madeleines aux trois quarts.\n\n7. Enfourner pendant 10 à 12 minutes jusqu'à ce que les madeleines soient dorées.\n\n8. Laisser refroidir avant de démouler.\n\n",
+        "image": "https://i.pinimg.com/564x/ae/58/83/ae588382ac2676bda772dd31c83c4671.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Salade Niçoise",
+        "category": "entrée",
+        "preparation_time": "20 minutes",
+        "cooking_time": "0 minutes",
+        "ingredients": "200g de thon en conserve\n4 tomates\n1 concombre\n1 poivron vert\n1 petit oignon rouge\n100g d olives noires\n2 oeufs\n6 filets d anchois\nHuile d olive\nVinaigre de vin\nSel\nPoivre",
+        "steps": "1. Faire cuire les oeufs durs (10 minutes) et les laisser refroidir.\n\n2. Laver et couper les tomates, le concombre, le poivron et l'oignon en morceaux.\n\n3. Égoutter le thon et le répartir dans un saladier.\n\n4. Ajouter les légumes coupés et les olives noires.\n\n5. Écaler les oeufs, les couper en quartiers et les ajouter à la salade.\n\n6. Ajouter les filets d'anchois.\n\n7. Assaisonner avec de l'huile d'olive, du vinaigre de vin, du sel et du poivre.\n\n8. Mélanger délicatement avant de servir.",
+        "image": "https://i.pinimg.com/564x/7b/bb/58/7bbb58a4c15fb0f35531cce8906ea2ac.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Crêpes Suzette",
+        "category": "dessert",
+        "preparation_time": "10 minutes",
+        "cooking_time": "20 minutes",
+        "ingredients": "250g de farine\n3 oeufs\n500ml de lait\n50g de beurre fondu\n1 pincée de sel\n100g de sucre\n50g de beurre\n2 oranges\n1 citron\n10cl de Grand Marnier",
+        "steps": "1. Préparer la pâte à crêpes : mélanger la farine, les oeufs, le lait, le beurre fondu et le sel jusqu'à obtenir une pâte lisse.\n\n2. Laisser reposer la pâte pendant 30 minutes.\n\n3. Faire cuire les crêpes dans une poêle bien chaude et réserver.\n\n4. Préparer la sauce Suzette : râper le zeste des oranges et du citron, puis presser le jus.\n\n5. Dans une poêle, faire fondre le sucre jusqu'à obtenir un caramel.\n\n6. Ajouter le beurre, le jus et les zestes des agrumes, puis le Grand Marnier.\n\n7. Plier les crêpes en quatre et les plonger dans la sauce.\n\n8. Faire chauffer les crêpes quelques minutes pour bien les enrober de sauce.\n\n9. Servir chaud.",
+        "image": "https://i.pinimg.com/564x/1e/9c/68/1e9c68864ee23198f44c77e9ee2113de.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Mousse au Chocolat",
+        "category": "dessert",
+        "preparation_time": "15 minutes",
+        "cooking_time": "0 minutes",
+        "ingredients": "200g de chocolat noir\n6 oeufs\n1 pincée de sel",
+        "steps": "1. Faire fondre le chocolat au bain-marie.\n\n2. Séparer les blancs des jaunes d'oeufs.\n\n3. Ajouter les jaunes d'oeufs au chocolat fondu et bien mélanger.\n\n4. Battre les blancs d'oeufs en neige ferme avec une pincée de sel.\n\n5. Incorporer délicatement les blancs en neige au mélange chocolaté.\n\n6. Verser la mousse dans des ramequins et laisser reposer au réfrigérateur pendant au moins 3 heures avant de servir.",
+        "image": "https://i.pinimg.com/564x/59/86/b9/5986b9ae30613330b5fdb0072a8956b2.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Lasagnes",
+        "category": "plat",
+        "preparation_time": "45 minutes",
+        "cooking_time": "60 minutes",
+        "ingredients": "12 feuilles de lasagnes\n500g de boeuf haché\n1 oignon\n2 gousses d ail\n800g de tomates concassées\n500ml de béchamel\n200g de fromage râpé\nHuile d olive\nSel\nPoivre\nHerbes de Provence",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Faire revenir l'oignon et l'ail hachés dans de l'huile d'olive.\n\n3. Ajouter le boeuf haché et cuire jusqu'à ce qu'il soit bien doré.\n\n4. Ajouter les tomates concassées, le sel, le poivre et les herbes de Provence. Laisser mijoter 15 minutes.\n\n5. Dans un plat à gratin, disposer une couche de sauce bolognaise, une couche de feuilles de lasagnes, une couche de béchamel et répéter l'opération en terminant par une couche de béchamel.\n\n6. Saupoudrer de fromage râpé.\n\n7. Enfourner pendant 45 minutes jusqu'à ce que les lasagnes soient dorées et bien cuites.\n\n8. Laisser reposer quelques minutes avant de servir.",
+        "image": "https://i.pinimg.com/564x/e1/e8/21/e1e8210792decd7d59c97b31647eedc0.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Pancakes",
+        "category": "dessert",
+        "preparation_time": "10 minutes",
+        "cooking_time": "15 minutes",
+        "ingredients": "250g de farine\n2 oeufs\n30g de sucre\n1 sachet de levure chimique\n300ml de lait\n50g de beurre fondu\n1 pincée de sel",
+        "steps": "1. Dans un saladier, mélanger la farine, le sucre, la levure et le sel.\n\n2. Ajouter les oeufs, le lait et le beurre fondu. Mélanger jusqu'à obtenir une pâte lisse.\n\n3. Faire chauffer une poêle antiadhésive et y verser une petite louche de pâte.\n\n4. Cuire jusqu'à ce que des bulles se forment à la surface, puis retourner le pancake et cuire l'autre côté jusqu'à ce qu'il soit doré.\n\n5. Répéter l'opération avec le reste de la pâte.\n\n6. Servir chaud avec du sirop d'érable, des fruits ou du chocolat fondu.",
+        "image": "https://i.pinimg.com/736x/73/7c/a7/737ca72da5b467ca59f0cebd78f51b90.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Croque-Monsieur",
+        "category": "plat",
+        "preparation_time": "10 minutes",
+        "cooking_time": "10 minutes",
+        "ingredients": "8 tranches de pain de mie\n4 tranches de jambon\n8 tranches de fromage (emmental ou gruyère)\n50g de beurre\n20cl de béchamel\nSel\nPoivre",
+        "steps": "1. Préchauffer le four à 200°C.\n\n2. Beurrer les tranches de pain de mie.\n\n3. Sur 4 tranches, disposer une tranche de jambon et deux tranches de fromage.\n\n4. Recouvrir avec les tranches de pain restantes.\n\n5. Napper chaque croque-monsieur de béchamel.\n\n6. Enfourner pendant 10 minutes jusqu'à ce que le fromage soit fondu et le pain doré.\n\n7. Servir chaud.",
+        "image": "https://i.pinimg.com/564x/c2/3f/a7/c23fa7279dbe414ab3d80d09c4ca1189.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Couscous",
+        "category": "plat",
+        "preparation_time": "30 minutes",
+        "cooking_time": "90 minutes",
+        "ingredients": "500g de semoule de couscous\n500g d agneau\n500g de poulet\n4 carottes\n4 courgettes\n2 navets\n4 tomates\n1 boîte de pois chiches\n1 oignon\n2 gousses d ail\n1 bouquet de coriandre\nRas el hanout\nSel\nPoivre\nHuile d olive",
+        "steps": "1. Faire revenir l'oignon et l'ail hachés dans de l'huile d'olive.\n\n2. Ajouter l'agneau et le poulet, faire dorer de tous les côtés.\n\n3. Ajouter les tomates coupées en morceaux, les carottes, les courgettes et les navets coupés en gros morceaux.\n\n4. Assaisonner avec le ras el hanout, le sel et le poivre. Couvrir d'eau et laisser mijoter pendant 1 heure.\n\n5. Ajouter les pois chiches égouttés et la coriandre hachée. Poursuivre la cuisson pendant 30 minutes.\n\n6. Préparer la semoule selon les indications du paquet.\n\n7. Servir la viande et les légumes sur la semoule de couscous.",
+        "image": "https://i.pinimg.com/564x/6e/37/fb/6e37fb9018a0116558cbc81b13ef9a8c.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Soupe Minestrone",
+        "category": "entrée",
+        "preparation_time": "25 minutes",
+        "cooking_time": "45 minutes",
+        "ingredients": "2 carottes\n2 courgettes\n2 pommes de terre\n1 oignon\n2 gousses d ail\n200g de haricots verts\n200g de petits pois\n1 boîte de tomates pelées\n1 litre de bouillon de légumes\n100g de pâtes\n1 bouquet de basilic\nHuile d olive\nSel\nPoivre",
+        "steps": "1. Laver et couper tous les légumes en petits morceaux.\n\n2. Faire revenir l'oignon et l'ail hachés dans de l'huile d'olive.\n\n3. Ajouter les carottes, les courgettes et les pommes de terre, faire revenir quelques minutes.\n\n4. Ajouter les haricots verts, les petits pois, les tomates pelées et le bouillon de légumes.\n\n5. Laisser mijoter pendant 30 minutes.\n\n6. Ajouter les pâtes et poursuivre la cuisson pendant 10-15 minutes.\n\n7. Assaisonner avec du sel, du poivre et du basilic haché.\n\n8. Servir chaud.",
+        "image": "https://i.pinimg.com/564x/12/e8/c9/12e8c98e7135580d21eb7b733da1d136.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Moussaka",
+        "category": "plat",
+        "preparation_time": "40 minutes",
+        "cooking_time": "60 minutes",
+        "ingredients": "3 aubergines\n500g de boeuf haché\n2 oignons\n2 gousses d ail\n800g de tomates concassées\n50g de beurre\n50g de farine\n500ml de lait\n100g de fromage râpé\nHuile d olive\nSel\nPoivre\nCanelle\nNoix de muscade",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Laver et couper les aubergines en tranches, les faire revenir dans de l'huile d'olive jusqu'à ce qu'elles soient dorées.\n\n3. Faire revenir les oignons et l'ail hachés dans de l'huile d'olive.\n\n4. Ajouter le boeuf haché, cuire jusqu'à ce qu'il soit bien doré.\n\n5. Ajouter les tomates concassées, le sel, le poivre, la cannelle et laisser mijoter 15 minutes.\n\n6. Préparer une béchamel : faire fondre le beurre, ajouter la farine, puis le lait en remuant jusqu'à épaississement. Assaisonner avec du sel, du poivre et de la noix de muscade.\n\n7. Dans un plat à gratin, disposer une couche d'aubergines, une couche de viande, une couche de béchamel. Répéter l'opération en terminant par une couche de béchamel.\n\n8. Saupoudrer de fromage râpé.\n\n9. Enfourner pendant 45 minutes jusqu'à ce que la moussaka soit bien dorée.\n\n10. Laisser reposer quelques minutes avant de servir.",
+        "image": "https://i.pinimg.com/564x/a3/87/76/a387760532127d8215c2f5c1c16a231d.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Paella",
+        "category": "plat",
+        "preparation_time": "30 minutes",
+        "cooking_time": "60 minutes",
+        "ingredients": "300g de riz\n200g de poulet\n200g de crevettes\n150g de chorizo\n1 poivron rouge\n1 poivron vert\n2 tomates\n1 oignon\n2 gousses d ail\n100g de petits pois\n1 litre de bouillon de poulet\n1 dose de safran\nHuile d olive\nSel\nPoivre",
+        "steps": "1. Faire revenir l'oignon et l'ail hachés dans de l'huile d'olive.\n\n2. Ajouter le poulet coupé en morceaux et le chorizo en rondelles, faire dorer.\n\n3. Ajouter les poivrons coupés en morceaux, les tomates concassées et le riz. Mélanger bien.\n\n4. Ajouter le bouillon de poulet, le safran, le sel et le poivre. Porter à ébullition.\n\n5. Réduire le feu et laisser mijoter pendant 20 minutes.\n\n6. Ajouter les crevettes et les petits pois, poursuivre la cuisson pendant 10 minutes.\n\n7. Laisser reposer quelques minutes avant de servir.",
+        "image": "https://i.pinimg.com/564x/4c/40/ff/4c40ff3cc26f23bd76cb83d568a5edb7.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Fondue Savoyarde",
+        "category": "plat",
+        "preparation_time": "15 minutes",
+        "cooking_time": "20 minutes",
+        "ingredients": "400g de fromage Beaufort\n400g de fromage Comté\n200g de fromage Emmental\n1 gousse d ail\n300ml de vin blanc sec\n1 cuillère à café de fécule de maïs\n1 petit verre de kirsch\nPoivre\nPain de campagne",
+        "steps": "1. Frotter l'intérieur du caquelon avec la gousse d'ail.\n\n2. Râper les fromages et les mélanger dans un bol.\n\n3. Délayer la fécule de maïs dans le vin blanc.\n\n4. Faire chauffer le vin blanc dans le caquelon à feu doux.\n\n5. Ajouter les fromages râpés progressivement en remuant constamment.\n\n6. Ajouter le kirsch et poivrer selon le goût.\n\n7. Continuer à remuer jusqu'à obtenir une consistance lisse et homogène.\n\n8. Servir immédiatement avec des morceaux de pain de campagne.",
+        "image": "https://i.pinimg.com/564x/d5/ce/b7/d5ceb78e865f621b89c2ba450aaef176.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Poulet Curry",
+        "category": "plat",
+        "preparation_time": "20 minutes",
+        "cooking_time": "40 minutes",
+        "ingredients": "500g de poulet\n2 oignons\n3 gousses d ail\n1 morceau de gingembre\n2 tomates\n200ml de lait de coco\n2 cuillères à soupe de curry en poudre\n1 cuillère à café de cumin\n1 cuillère à café de curcuma\n1 cuillère à café de paprika\nHuile d olive\nSel\nPoivre\nCoriandre fraîche pour garnir",
+        "steps": "1. Couper le poulet en morceaux et réserver.\n\n2. Émincer les oignons, l'ail et le gingembre.\n\n3. Faire revenir les oignons dans de l'huile d'olive jusqu'à ce qu'ils soient dorés.\n\n4. Ajouter l'ail, le gingembre, le curry, le cumin, le curcuma et le paprika. Faire revenir pendant quelques minutes.\n\n5. Ajouter les morceaux de poulet et les faire dorer.\n\n6. Ajouter les tomates concassées et cuire pendant 10 minutes.\n\n7. Ajouter le lait de coco, saler et poivrer. Laisser mijoter pendant 20 minutes.\n\n8. Garnir de coriandre fraîche avant de servir.",
+        "image": "https://i.pinimg.com/564x/2f/46/99/2f46997e797361eb8fce802019b058ad.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Tarte Tatin",
+        "category": "dessert",
+        "preparation_time": "20 minutes",
+        "cooking_time": "40 minutes",
+        "ingredients": "6 pommes\n150g de sucre\n80g de beurre\n1 pâte feuilletée",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Peler et couper les pommes en quartiers.\n\n3. Faire fondre le beurre dans une poêle et ajouter le sucre. Faire caraméliser à feu moyen.\n\n4. Ajouter les quartiers de pommes dans le caramel et cuire pendant 10 minutes.\n\n5. Disposer les pommes caramélisées dans un moule à tarte.\n\n6. Recouvrir les pommes avec la pâte feuilletée en rentrant les bords à l'intérieur du moule.\n\n7. Enfourner pendant 25-30 minutes jusqu'à ce que la pâte soit dorée.\n\n8. Laisser refroidir légèrement avant de démouler.",
+        "image": "https://i.pinimg.com/564x/63/93/8f/63938f6d7dd50abfc0006d36a9941418.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Gâteau au Chocolat",
+        "category": "dessert",
+        "preparation_time": "20 minutes",
+        "cooking_time": "30 minutes",
+        "ingredients": "200g de chocolat noir\n150g de beurre\n150g de sucre\n4 oeufs\n80g de farine\n1 pincée de sel",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Faire fondre le chocolat et le beurre au bain-marie.\n\n3. Dans un bol, battre les oeufs avec le sucre jusqu'à ce que le mélange blanchisse.\n\n4. Ajouter le mélange chocolat-beurre fondu et bien mélanger.\n\n5. Ajouter la farine et la pincée de sel. Mélanger jusqu'à obtenir une pâte homogène.\n\n6. Verser la pâte dans un moule beurré et fariné.\n\n7. Enfourner pendant 25-30 minutes.\n\n8. Laisser refroidir avant de démouler et de servir.",
+        "image": "https://i.pinimg.com/564x/1e/73/1a/1e731ae82a86044388c5c0fa71c48e8c.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Riz au Lait",
+        "category": "dessert",
+        "preparation_time": "10 minutes",
+        "cooking_time": "30 minutes",
+        "ingredients": "150g de riz rond\n1 litre de lait entier\n100g de sucre\n1 gousse de vanille\n1 pincée de sel",
+        "steps": "1. Rincer le riz à l'eau froide.\n\n2. Dans une casserole, porter le lait à ébullition avec la gousse de vanille fendue et grattée.\n\n3. Ajouter le riz et la pincée de sel. Cuire à feu doux pendant 25-30 minutes en remuant régulièrement.\n\n4. Ajouter le sucre et continuer à cuire pendant 5 minutes.\n\n5. Retirer la gousse de vanille.\n\n6. Laisser refroidir avant de servir.",
+        "image": "https://i.pinimg.com/564x/e4/8b/a3/e48ba315ec2fabc9f2eba515e4579e38.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Brioche",
+        "category": "dessert",
+        "preparation_time": "15 minutes",
+        "cooking_time": "20 minutes",
+        "ingredients": "500g de farine\n70g de sucre\n10g de sel\n20g de levure fraîche\n300ml de lait\n2 oeufs\n150g de beurre",
+        "steps": "1. Délayer la levure dans le lait tiède.\n\n2. Dans un bol, mélanger la farine, le sucre et le sel.\n\n3. Ajouter les oeufs et le mélange lait-levure. Pétrir jusqu'à obtenir une pâte lisse.\n\n4. Ajouter le beurre coupé en morceaux et pétrir jusqu'à ce qu'il soit bien incorporé.\n\n5. Laisser lever la pâte pendant 1 heure dans un endroit chaud.\n\n6. Façonner la pâte en forme de brioche et la déposer dans un moule beurré.\n\n7. Laisser lever pendant 30 minutes.\n\n8. Préchauffer le four à 180°C et enfourner pendant 20-25 minutes jusqu'à ce que la brioche soit dorée.",
+        "image": "https://i.pinimg.com/564x/33/9d/c9/339dc9ca5380c61b0f1d52e85bb47877.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Escargots de Bourgogne",
+        "category": "entrée",
+        "preparation_time": "15 minutes",
+        "cooking_time": "15 minutes",
+        "ingredients": "24 escargots\n100g de beurre\n3 gousses d ail\n1 échalote\n1 bouquet de persil\nSel\nPoivre\n1 baguette de pain",
+        "steps": "1. Préchauffer le four à 200°C.\n\n2. Hacher finement l'ail, l'échalote et le persil.\n\n3. Mélanger le beurre ramolli avec l'ail, l'échalote, le persil, le sel et le poivre.\n\n4. Placer un escargot dans chaque coquille et remplir de beurre persillé.\n\n5. Disposer les escargots dans un plat allant au four.\n\n6. Enfourner pendant 10-15 minutes jusqu'à ce que le beurre soit fondu et bouillonnant.\n\n7. Servir chaud avec des tranches de baguette.",
+        "image": "https://i.pinimg.com/564x/16/80/f4/1680f4f02ee4682830dc299532017654.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Canard à l'Orange",
+        "category": "plat",
+        "preparation_time": "30 minutes",
+        "cooking_time": "120 minutes",
+        "ingredients": "1 canard entier\n4 oranges\n2 cuillères à soupe de sucre\n50ml de vinaigre de vin\n200ml de fond de volaille\n1 cuillère à soupe de maïzena\nSel\nPoivre",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Saler et poivrer l'intérieur du canard. Placer dans un plat à rôtir et cuire au four pendant 90 minutes.\n\n3. Pendant ce temps, presser le jus de deux oranges et réserver.\n\n4. Peler à vif les deux autres oranges et les couper en tranches fines.\n\n5. Dans une casserole, faire caraméliser le sucre avec le vinaigre. Ajouter le jus d'orange et le fond de volaille.\n\n6. Porter à ébullition et laisser réduire de moitié.\n\n7. Délayer la maïzena dans un peu d'eau et l'ajouter à la sauce. Cuire jusqu'à épaississement.\n\n8. À la sortie du four, napper le canard de sauce à l'orange et garnir de tranches d'orange.\n\n9. Servir chaud.",
+        "image": "https://i.pinimg.com/564x/17/bb/6f/17bb6f42573137bdc5fae26c68bbba75.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Coq au Vin",
+        "category": "plat",
+        "preparation_time": "20 minutes",
+        "cooking_time": "120 minutes",
+        "ingredients": "1 coq coupé en morceaux\n200g de lardons\n200g de champignons de Paris\n2 oignons\n3 gousses d ail\n750ml de vin rouge\n500ml de bouillon de volaille\n2 cuillères à soupe de farine\n1 bouquet garni\nSel\nPoivre",
+        "steps": "1. Faire revenir les lardons dans une cocotte et réserver.\n\n2. Faire dorer les morceaux de coq dans la même cocotte.\n\n3. Ajouter les oignons émincés, l'ail haché et les champignons. Faire revenir quelques minutes.\n\n4. Saupoudrer de farine et bien mélanger.\n\n5. Verser le vin rouge et le bouillon. Ajouter le bouquet garni, saler et poivrer.\n\n6. Porter à ébullition, puis réduire le feu et laisser mijoter pendant 2 heures.\n\n7. Ajouter les lardons réservés 10 minutes avant la fin de la cuisson.\n\n8. Servir chaud.",
+        "image": "https://i.pinimg.com/564x/fb/13/9c/fb139cdc47524652709fb99f6853c99b.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Gâteau aux Pommes",
+        "category": "dessert",
+        "preparation_time": "20 minutes",
+        "cooking_time": "35 minutes",
+        "ingredients": "3 pommes\n150g de sucre\n3 oeufs\n150g de farine\n1 sachet de levure\n150g de beurre\n1 pincée de sel",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Peler et couper les pommes en morceaux.\n\n3. Dans un bol, battre les oeufs avec le sucre jusqu'à ce que le mélange blanchisse.\n\n4. Ajouter la farine, la levure et la pincée de sel. Mélanger.\n\n5. Faire fondre le beurre et l'ajouter à la pâte.\n\n6. Incorporer les morceaux de pommes.\n\n7. Verser la pâte dans un moule beurré et fariné.\n\n8. Enfourner pendant 35 minutes.\n\n9. Laisser refroidir avant de démouler et de servir.",
+        "image": "https://i.pinimg.com/564x/7f/56/86/7f5686c8a8a45b354c784a2141cae0a0.jpg"
+    },
+    {
+        "id": 31,
+        "title": "Boeuf Stroganoff",
+        "category": "plat",
+        "preparation_time": "15 minutes",
+        "cooking_time": "40 minutes",
+        "ingredients": "500g de boeuf (filet ou rumsteck)\n1 oignon\n200g de champignons de Paris\n1 gousse d ail\n200ml de crème fraîche\n100ml de bouillon de boeuf\n2 cuillères à soupe de concentré de tomate\n2 cuillères à soupe de moutarde\n2 cuillères à soupe d huile\nSel\nPoivre\nPersil frais pour garnir",
+        "steps": "1. Couper le boeuf en lanières fines.\n\n2. Émincer l'oignon, l'ail et les champignons.\n\n3. Faire chauffer l'huile dans une poêle et faire revenir l'oignon et l'ail jusqu'à ce qu'ils soient translucides.\n\n4. Ajouter les champignons et cuire pendant 5 minutes.\n\n5. Ajouter les lanières de boeuf et cuire rapidement à feu vif.\n\n6. Ajouter le concentré de tomate, la moutarde et le bouillon de boeuf. Mélanger bien.\n\n7. Réduire le feu et ajouter la crème fraîche. Laisser mijoter pendant 10 minutes.\n\n8. Saler et poivrer selon le goût.\n\n9. Garnir de persil frais avant de servir.",
+        "image": "https://i.pinimg.com/564x/79/fe/87/79fe872e7f0b6bf84af1f349be3178ce.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Flan Pâtissier",
+        "category": "dessert",
+        "preparation_time": "15 minutes",
+        "cooking_time": "45 minutes",
+        "ingredients": "1 pâte brisée\n1 litre de lait\n4 oeufs\n200g de sucre\n100g de maïzena\n1 cuillère à soupe d extrait de vanille",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Étaler la pâte brisée dans un moule à tarte et la piquer avec une fourchette.\n\n3. Porter le lait à ébullition avec l'extrait de vanille.\n\n4. Dans un bol, battre les oeufs avec le sucre jusqu'à ce que le mélange blanchisse.\n\n5. Ajouter la maïzena et bien mélanger.\n\n6. Verser le lait chaud progressivement sur le mélange oeufs-sucre-maïzena en remuant constamment.\n\n7. Remettre le tout dans la casserole et cuire à feu doux jusqu'à épaississement.\n\n8. Verser la crème obtenue sur la pâte brisée.\n\n9. Enfourner pendant 45 minutes jusqu'à ce que le flan soit bien doré.\n\n10. Laisser refroidir avant de démouler et de servir.",
+        "image": "https://i.pinimg.com/564x/aa/6e/c3/aa6ec3dfc81846511c519d747ea4cb78.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Salade Grecque",
+        "category": "entrée",
+        "preparation_time": "10 minutes",
+        "cooking_time": "0 minutes",
+        "ingredients": "4 tomates\n1 concombre\n1 oignon rouge\n150g de feta\n100g d olives noires\n1 poivron vert\n1 cuillère à café d origan séché\nHuile d olive\nSel\nPoivre",
+        "steps": "1. Couper les tomates en quartiers et le concombre en rondelles.\n\n2. Émincer l'oignon rouge et couper le poivron vert en lanières.\n\n3. Couper la feta en dés.\n\n4. Mélanger tous les légumes dans un saladier.\n\n5. Ajouter les olives noires et la feta.\n\n6. Assaisonner avec l'origan, le sel et le poivre.\n\n7. Arroser d'huile d'olive et mélanger délicatement.\n\n8. Servir frais.",
+        "image": "https://i.pinimg.com/564x/46/24/01/462401c83dcc7c1e9a33a3b992779c12.jpg"
+    },
+    {
+        "id": 34,
+        "title": "Tarte au Citron",
+        "category": "dessert",
+        "preparation_time": "20 minutes",
+        "cooking_time": "25 minutes",
+        "ingredients": "1 pâte sablée\n4 oeufs\n150g de sucre\n100g de beurre\n3 citrons (jus et zeste)\n1 cuillère à soupe de maïzena",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Étaler la pâte sablée dans un moule à tarte et la piquer avec une fourchette.\n\n3. Cuire à blanc pendant 15 minutes.\n\n4. Pendant ce temps, préparer la crème au citron : dans une casserole, fouetter les oeufs avec le sucre jusqu'à ce que le mélange blanchisse.\n\n5. Ajouter le jus et le zeste des citrons, ainsi que la maïzena. Mélanger bien.\n\n6. Ajouter le beurre et faire cuire à feu doux en remuant constamment jusqu'à épaississement.\n\n7. Verser la crème au citron sur la pâte précuite.\n\n8. Enfourner de nouveau pendant 10 minutes.\n\n9. Laisser refroidir avant de démouler et de servir.",
+        "image": "https://i.pinimg.com/564x/60/b7/2a/60b72a0ab2bb43ff6ec0151d725e7cf6.jpg"
+    },
+    {
+        "id": 35,
+        "title": "Gaspacho",
+        "category": "entrée",
+        "preparation_time": "15 minutes",
+        "cooking_time": "0 minutes",
+        "ingredients": "1 concombre\n4 tomates\n1 poivron rouge\n1 oignon\n2 gousses d ail\n3 cuillères à soupe de vinaigre de vin\n4 cuillères à soupe d huile d olive\nSel\nPoivre\nBasilic frais pour garnir",
+        "steps": "1. Éplucher et couper le concombre en morceaux.\n\n2. Éplucher et émincer l'oignon et l'ail.\n\n3. Couper les tomates et le poivron en morceaux.\n\n4. Mixer tous les légumes ensemble jusqu'à obtenir une soupe lisse.\n\n5. Ajouter le vinaigre, l'huile d'olive, le sel et le poivre. Mixer de nouveau.\n\n6. Réfrigérer pendant au moins 2 heures avant de servir.\n\n7. Garnir de basilic frais avant de servir.",
+        "image": "https://i.pinimg.com/564x/03/62/71/036271ede3639785c7c21431375a6567.jpg"
+    },
+    {
+        "id": 36,
+        "title": "Filet Mignon",
+        "category": "plat",
+        "preparation_time": "15 minutes",
+        "cooking_time": "30 minutes",
+        "ingredients": "600g de filet mignon de porc\n1 oignon\n2 gousses d ail\n200ml de crème fraîche\n100ml de bouillon de légumes\n2 cuillères à soupe de moutarde\n2 cuillères à soupe d huile d olive\nSel\nPoivre\nPersil frais pour garnir",
+        "steps": "1. Préchauffer le four à 180°C.\n\n2. Faire chauffer l'huile d'olive dans une poêle.\n\n3. Faire revenir le filet mignon de tous les côtés jusqu'à ce qu'il soit doré.\n\n4. Transférer le filet mignon dans un plat allant au four.\n\n5. Dans la même poêle, faire revenir l'oignon et l'ail émincés.\n\n6. Ajouter le bouillon de légumes, la crème fraîche et la moutarde. Mélanger bien.\n\n7. Verser la sauce sur le filet mignon.\n\n8. Enfourner pendant 20-25 minutes.\n\n9. Saler et poivrer selon le goût.\n\n10. Garnir de persil frais avant de servir.",
+        "image": "https://i.pinimg.com/564x/ec/c8/bc/ecc8bcc63170dfb0f6455c79fb89baa0.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Pommes de Terre Sarladaises",
+        "category": "plat",
+        "preparation_time": "10 minutes",
+        "cooking_time": "30 minutes",
+        "ingredients": "1kg de pommes de terre\n3 gousses d ail\n50g de graisse de canard\nSel\nPoivre\nPersil frais pour garnir",
+        "steps": "1. Éplucher et couper les pommes de terre en rondelles.\n\n2. Faire chauffer la graisse de canard dans une grande poêle.\n\n3. Ajouter les pommes de terre et les faire revenir à feu moyen jusqu'à ce qu'elles soient dorées et croustillantes.\n\n4. Ajouter l'ail émincé et cuire encore quelques minutes.\n\n5. Saler et poivrer selon le goût.\n\n6. Garnir de persil frais avant de servir.",
+        "image": "https://i.pinimg.com/564x/36/a7/03/36a70365c284c3bf09c58cd38c140633.jpg"
+    },
+    {
+        "id": 38,
+        "title": "Profiteroles",
+        "category": "dessert",
+        "preparation_time": "25 minutes",
+        "cooking_time": "25 minutes",
+        "ingredients": "Pour la pâte à choux :\n\n- 125ml de lait\n- 125ml d eau\n- 100g de beurre\n- 150g de farine\n- 4 oeufs\n\nPour la crème pâtissière :\n\n- 500ml de lait\n- 4 jaunes d oeufs\n- 100g de sucre\n- 50g de maïzena\n- 1 cuillère à soupe d extrait de vanille\n\nPour le glaçage :\n\n- 200g de chocolat noir\n- 100ml de crème liquide",
+        "steps": "1. Préchauffer le four à 200°C.\n\n2. Pour la pâte à choux : dans une casserole, porter à ébullition le lait, l'eau et le beurre.\n\n3. Hors du feu, ajouter la farine en une seule fois et mélanger vigoureusement.\n\n4. Remettre sur le feu et dessécher la pâte jusqu'à ce qu'elle se détache des parois de la casserole.\n\n5. Hors du feu, ajouter les oeufs un à un en mélangeant bien après chaque ajout.\n\n6. Former des petits choux sur une plaque de cuisson et enfourner pendant 20-25 minutes jusqu'à ce qu'ils soient dorés.\n\n7. Pour la crème pâtissière : faire chauffer le lait avec l'extrait de vanille.\n\n8. Dans un bol, fouetter les jaunes d'oeufs avec le sucre jusqu'à ce que le mélange blanchisse.\n\n9. Ajouter la maïzena et mélanger.\n\n10. Verser le lait chaud progressivement sur le mélange oeufs-sucre-maïzena en remuant constamment.\n\n11. Remettre le tout dans la casserole et cuire à feu doux jusqu'à épaississement.\n\n12. Laisser refroidir puis garnir les choux de crème pâtissière.\n\n13. Pour le glaçage : faire fondre le chocolat avec la crème liquide.\n\n14. Tremper le dessus des choux dans le glaçage au chocolat.\n\n15. Laisser refroidir avant de servir.",
+        "image": "https://i.pinimg.com/564x/39/85/88/398588ca32838a1ad2ad401cc581b8b9.jpg"
+        
+    }
+]

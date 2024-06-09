@@ -1,0 +1,29 @@
+
+
+.comment {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    font-size: 16px;
+   text-align: left !important;
+    
+} 
+
+.comment a {
+    margin-left: 15px;
+    color: #ff7300;
+    text-decoration: none;
+    
+}
+
+.comment a:hover {
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 728px) {
+    form {
+        width: 90%;
+    }
+}

@@ -1,0 +1,19 @@
+.recipe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.recipe-image {
+    max-width: 400px;
+    max-height: auto;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.average-rating {
+    font-size: 14px;
+    color: #888;
+    margin-top: 5px;
+}
